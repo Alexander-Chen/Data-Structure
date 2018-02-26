@@ -1,4 +1,2 @@
-﻿  二叉树.cpp
-d:\github\data-structure\data-structure\data-structure\二叉树.cpp(83): warning C4474: scanf: 格式字符串中传递的参数太多
-  d:\github\data-structure\data-structure\data-structure\二叉树.cpp(83): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+﻿  二叉树的建立.cpp
   Data-Structure.vcxproj -> D:\Github\Data-Structure\Data-Structure\Debug\Data-Structure.exe
